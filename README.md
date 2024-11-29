@@ -1,7 +1,7 @@
 # controlgastos
 
 AO CLONAR O PROJETO, LEMBRE DE REALIZAR O COMANDO flutter pub get, LOGO DEPOIS O flutter run.
-A API correspondente ao projeto foi feito em .NET, estarei publicando ao mesmo que este projeto.
+A API correspondente ao projeto foi feito em .NET: https://github.com/arturw9/ControleGastosPessoais_.NET_back
 
 Logo abaixo os requisitos a serem cumpridos.
 
