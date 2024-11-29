@@ -3,6 +3,8 @@
 AO CLONAR O PROJETO, LEMBRE DE REALIZAR O COMANDO flutter pub get, LOGO DEPOIS O flutter run.
 A API correspondente ao projeto foi feito em .NET: https://github.com/arturw9/ControleGastosPessoais_.NET_back
 
+Video apresentação: https://drive.google.com/file/d/1BFlmcXJ2F0WIayS6w8srkZkthpXvkD1K/view?usp=drive_link
+
 Logo abaixo os requisitos que foram cumpridos.
 
 
