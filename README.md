@@ -3,7 +3,7 @@
 AO CLONAR O PROJETO, LEMBRE DE REALIZAR O COMANDO flutter pub get, LOGO DEPOIS O flutter run.
 A API correspondente ao projeto foi feito em .NET: https://github.com/arturw9/ControleGastosPessoais_.NET_back
 
-Logo abaixo os requisitos a serem cumpridos.
+Logo abaixo os requisitos que foram cumpridos.
 
 
 Descrição da Atividade: Aplicativo de Controle de Gastos Pessoais
